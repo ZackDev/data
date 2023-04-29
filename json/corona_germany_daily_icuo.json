@@ -6584,21 +6584,27 @@
         },
         {
             "date": "2023-04-26",
-            "free_icu": 3401,
+            "free_icu": 3404,
             "covid_icu": 338,
             "covid_icu_invasive": 216
         },
         {
             "date": "2023-04-27",
-            "free_icu": 3432,
-            "covid_icu": 331,
+            "free_icu": 3433,
+            "covid_icu": 333,
             "covid_icu_invasive": 211
         },
         {
             "date": "2023-04-28",
-            "free_icu": 3410,
-            "covid_icu": 324,
+            "free_icu": 3413,
+            "covid_icu": 326,
             "covid_icu_invasive": 194
+        },
+        {
+            "date": "2023-04-29",
+            "free_icu": 3508,
+            "covid_icu": 324,
+            "covid_icu_invasive": 192
         }
     ]
 }
