@@ -6741,14 +6741,20 @@
         {
             "date": "2023-05-22",
             "free_icu": 3821,
-            "covid_icu": 179,
+            "covid_icu": 178,
             "covid_icu_invasive": 112
         },
         {
             "date": "2023-05-23",
-            "free_icu": 3522,
-            "covid_icu": 167,
+            "free_icu": 3520,
+            "covid_icu": 166,
             "covid_icu_invasive": 110
+        },
+        {
+            "date": "2023-05-24",
+            "free_icu": 3231,
+            "covid_icu": 160,
+            "covid_icu_invasive": 101
         }
     ]
 }
