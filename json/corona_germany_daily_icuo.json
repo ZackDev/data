@@ -6794,15 +6794,21 @@
         },
         {
             "date": "2023-05-31",
-            "free_icu": 3502,
+            "free_icu": 3504,
             "covid_icu": 135,
             "covid_icu_invasive": 83
         },
         {
             "date": "2023-06-01",
-            "free_icu": 3528,
+            "free_icu": 3518,
             "covid_icu": 121,
             "covid_icu_invasive": 79
+        },
+        {
+            "date": "2023-06-02",
+            "free_icu": 3479,
+            "covid_icu": 121,
+            "covid_icu_invasive": 77
         }
     ]
 }
