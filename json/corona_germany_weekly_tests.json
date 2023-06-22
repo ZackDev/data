@@ -1052,27 +1052,39 @@
         },
         {
             "calendar_week": "2023-W19",
-            "weekly_tests_positive": 2871,
-            "weekly_tests_negative": 11901,
-            "total_tests": 152398549
+            "weekly_tests_positive": 2887,
+            "weekly_tests_negative": 12070,
+            "total_tests": 152398734
         },
         {
             "calendar_week": "2023-W20",
-            "weekly_tests_positive": 2045,
-            "weekly_tests_negative": 8655,
-            "total_tests": 152409249
+            "weekly_tests_positive": 2115,
+            "weekly_tests_negative": 9554,
+            "total_tests": 152410403
         },
         {
             "calendar_week": "2023-W21",
-            "weekly_tests_positive": 1924,
-            "weekly_tests_negative": 8859,
-            "total_tests": 152420032
+            "weekly_tests_positive": 1773,
+            "weekly_tests_negative": 9835,
+            "total_tests": 152422011
         },
         {
             "calendar_week": "2023-W22",
-            "weekly_tests_positive": 1281,
-            "weekly_tests_negative": 7362,
-            "total_tests": 152428675
+            "weekly_tests_positive": 1346,
+            "weekly_tests_negative": 8189,
+            "total_tests": 152431546
+        },
+        {
+            "calendar_week": "2023-W23",
+            "weekly_tests_positive": 1042,
+            "weekly_tests_negative": 7260,
+            "total_tests": 152439848
+        },
+        {
+            "calendar_week": "2023-W24",
+            "weekly_tests_positive": 922,
+            "weekly_tests_negative": 6769,
+            "total_tests": 152447539
         }
     ]
 }
